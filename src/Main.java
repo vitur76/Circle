@@ -11,7 +11,7 @@ public class Main {
 
 class Circle {
 
-    double pi = 3.14;
+    final double pi = 3.14;
     double radius;
     double area;
 
